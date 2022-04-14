@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bitwayapp-dev-150821-authRole",
+      "UnauthRoleArn": "arn:aws:iam::291874438173:role/amplify-bitwayapp-dev-150821-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::291874438173:role/amplify-bitwayapp-dev-150821-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bitwayapp-dev-150821-deployment",
+      "UnauthRoleName": "amplify-bitwayapp-dev-150821-unauthRole",
+      "StackName": "amplify-bitwayapp-dev-150821",
+      "StackId": "arn:aws:cloudformation:us-east-1:291874438173:stack/amplify-bitwayapp-dev-150821/2e80da80-bc1e-11ec-8461-12bca74801a3",
+      "AmplifyAppId": "dycizc15kjyam"
+    },
+    "categories": {
+      "auth": {
+        "bitwayapp4653f51d": {}
+      }
+    }
+  }
+}
